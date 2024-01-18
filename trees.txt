@@ -1,11 +1,5 @@
-
 a Apple
 b Banyan
 c Cherry 
-
-a Alder 
-b Baobab
-c Cherry
-
 d Dogwood
 e Elder 
