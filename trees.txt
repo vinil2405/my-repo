@@ -2,4 +2,8 @@ a Apple
 b Banyan
 c Cherry
 d Dogwood
+<<<<<<< HEAD
 e Elder
+=======
+e Elm
+>>>>>>> alternative
