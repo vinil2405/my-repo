@@ -2,5 +2,10 @@ a Apple
 b Banyan
 c Cherry 
 d Dogwood
+<<<<<<< HEAD
 e Elder
 f mango
+=======
+e Elm
+f vinil
+>>>>>>> alternative
